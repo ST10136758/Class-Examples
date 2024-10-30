@@ -2,9 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 //Current Issues
-//application is linear and doesn't account for when a user fails to enter in valid registration details
-//Able to end program if incorrect information not given but not before final error message for user
-//Cannot used boolean method LoginUser() to display confirmation message
+
 
 package com.mycompany.st10136758.poe.part1;
 
